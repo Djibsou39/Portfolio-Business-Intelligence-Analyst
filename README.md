@@ -1,10 +1,9 @@
 # Portfolio Business Intelligence Analyst
-Ce portefolio est créé pour présenter mes expériences et mes projets
 <p align="center">
   
 <img src="images/harrison.png" height=300></p>
   
-Hi, my name is Harrison Jansma.
+Salut je m'appelle Djibril Soumare.
 
 
 
@@ -21,7 +20,7 @@ Hi, my name is Harrison Jansma.
 <p align="center">
 <a href="https://www.harrisonjansma.com"><img src="images/cv_website.PNG"></a></p>
   
-  <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development. Though I did learn a lot from making this website, much of the joy that came from this project was found making something of my own and putting it out into the world.</p>
+  <p> Ce portefolio est créé pour présenter mes expériences et mes projets</p>
   
   
 <hr>
