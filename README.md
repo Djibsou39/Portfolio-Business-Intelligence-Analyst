@@ -1,7 +1,7 @@
 # Portfolio Business Intelligence Analyst
 <p align="center">
   
-<img src="images/harrison.png" height=300></p>
+<img src="images/Photo_profil.jpg" height=300></p>
   
 Salut je m'appelle Djibril Soumare.
 
@@ -18,7 +18,7 @@ Salut je m'appelle Djibril Soumare.
 ### My Portfolio Website
 
 <p align="center">
-<a href="https://www.harrisonjansma.com"><img src="images/Photo_profil.jpg"></a></p>
+<a href="https://www.harrisonjansma.com"><img src="images/CV_Photo_pro.jpg"></a></p>
   
   <p> Ce portefolio est créé pour présenter mes expériences et mes projets</p>
   
