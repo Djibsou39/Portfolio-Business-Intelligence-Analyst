@@ -7,9 +7,7 @@ Salut je m'appelle Djibril Soumare.
 
 
 
-<p>I am an avid FPS competitive gamer, sci-fi reader, and student. I love to learn about how things work, whether that be studying good coding practices, engineering techniques, or machine learning methods. Much of my experience revolves around building machine learning applications, but I also strive to gain a deeper understanding of the world so that I can expand my skillset and build new and amazing things.</p>
-
-
+<p>Je suis technicien en SIG et Business Intelligence Analyste avec une expertise avancée dans la gestion de données géospatiales, l'analyse de données, et la création de tableaux de bord interactifs.</p>
 
 
 
