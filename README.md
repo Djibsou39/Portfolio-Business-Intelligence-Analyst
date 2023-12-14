@@ -18,7 +18,7 @@ Salut je m'appelle Djibril Soumare.
 ### My Portfolio Website
 
 <p align="center">
-<a href="https://www.harrisonjansma.com"><img src="images/cv_website.PNG"></a></p>
+<a href="https://www.harrisonjansma.com"><img src="images/Photo_profil.jpg"></a></p>
   
   <p> Ce portefolio est créé pour présenter mes expériences et mes projets</p>
   
