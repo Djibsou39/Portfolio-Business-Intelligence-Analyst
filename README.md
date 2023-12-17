@@ -1,13 +1,14 @@
-# Portfolio Business Intelligence Analyst
+# Portfolio
 <p align="center">
   
 <img src="images/Photo_profil.jpg" height=300></p>
-  
-Salut je m'appelle Djibril Soumare.
 
+# Djibril Soumare
+Business Intelligence Analyst & Géomaticien
 
+# À propos de moi
 
-<p>Je suis technicien en SIG et Business Intelligence Analyste avec une expertise avancée dans la gestion de données géospatiales, l'analyse de données, et la création de tableaux de bord interactifs.</p>
+<p>En tant que professionnel passionné de la géomatique et de l'analyse en business intelligence, je m'efforce de fusionner la puissance des données spatiales avec les principes analytiques pour fournir des insights stratégiques et des solutions innovantes. Mon expertise s'étend à la manipulation de données géospatiales, à la création de visualisations percutantes et à l'exploitation de technologies de business intelligence pour prendre des décisions éclairées.</p>
 
 
 
