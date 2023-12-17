@@ -3,27 +3,21 @@
   
 <img src="images/Photo_profil.jpg" height=300></p>
 
-# Djibril Soumare
+## Djibril Soumare
 Business Intelligence Analyst & Géomaticien
 
-# À propos de moi
+## À propos de moi
 
 <p>En tant que professionnel passionné de la géomatique et de l'analyse en business intelligence, je m'efforce de fusionner la puissance des données spatiales avec les principes analytiques pour fournir des insights stratégiques et des solutions innovantes. Mon expertise s'étend à la manipulation de données géospatiales, à la création de visualisations percutantes et à l'exploitation de technologies de business intelligence pour prendre des décisions éclairées.</p>
 
-
-### My Portfolio Website
-
-<p align="center">
-<a href="https://www.harrisonjansma.com"><img src="images/CV_Photo_pro.jpg"></a></p>
-
-### My Professional Experience
+### Mes expériences professionnelles
   <p align="center">
 <a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
   
   <p>For the past 6 months I have been working as a Data Science Intern at Sprint. I was able to get much experience in database manipulation/extraction, ML model development, and business communication. Much of my work was centered around building machine learning applications to predict when business systems fail.</p>
 
 
-# My Past Projects
+## Mes projets
 
 <hr>
 
