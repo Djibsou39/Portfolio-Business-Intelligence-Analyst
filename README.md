@@ -3,7 +3,7 @@
   
 <img src="images/Photo_profil.jpg" height=300></p>
 
-### Djibril Soumare
+# Djibril Soumare
 Business Intelligence Analyst & Géomaticien
 
 # À propos de moi
@@ -15,8 +15,6 @@ Business Intelligence Analyst & Géomaticien
 
 <p align="center">
 <a href="https://www.harrisonjansma.com"><img src="images/CV_Photo_pro.jpg"></a></p>
-  
-  <p> Ce portefolio est créé pour présenter mes expériences et mes projets</p>
 
 ### My Professional Experience
   <p align="center">
