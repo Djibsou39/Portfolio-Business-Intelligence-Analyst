@@ -1,4 +1,4 @@
-# Portfolio
+# Mon Portfolio 
 <p align="center">
   
 <img src="images/Photo_profil.jpg" height=300></p>
@@ -10,7 +10,7 @@ Business Intelligence Analyst & Géomaticien
 
 <p>En tant que professionnel passionné de la géomatique et de l'analyse en business intelligence, je m'efforce de fusionner la puissance des données spatiales avec les principes analytiques pour fournir des insights stratégiques et des solutions innovantes. Mon expertise s'étend à la manipulation de données géospatiales, à la création de visualisations percutantes et à l'exploitation de technologies de business intelligence pour prendre des décisions éclairées.</p>
 
-### Mes expériences professionnelles
+## Mes expériences professionnelles
   <p align="center">
 <a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
   
