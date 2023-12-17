@@ -3,7 +3,7 @@
   
 <img src="images/Photo_profil.jpg" height=300></p>
 
-# Djibril Soumare
+### Djibril Soumare
 Business Intelligence Analyst & Géomaticien
 
 # À propos de moi
@@ -11,29 +11,12 @@ Business Intelligence Analyst & Géomaticien
 <p>En tant que professionnel passionné de la géomatique et de l'analyse en business intelligence, je m'efforce de fusionner la puissance des données spatiales avec les principes analytiques pour fournir des insights stratégiques et des solutions innovantes. Mon expertise s'étend à la manipulation de données géospatiales, à la création de visualisations percutantes et à l'exploitation de technologies de business intelligence pour prendre des décisions éclairées.</p>
 
 
-
-# Get to Know Me 
-
 ### My Portfolio Website
 
 <p align="center">
 <a href="https://www.harrisonjansma.com"><img src="images/CV_Photo_pro.jpg"></a></p>
   
   <p> Ce portefolio est créé pour présenter mes expériences et mes projets</p>
-  
-  
-<hr>
-
-  
-### My Writing
-  <p align="center">
-<a href="https://medium.com/@harrisonjansma"><img src="images/Medium.PNG"></a></p>
-  
-  
-  
-  <p>I write because I love to teach. Though writing has fallen on my backburner with work and school, in the past I have been published in multiple major data-science and analytics publications; including <a href="https://medium.freecodecamp.org/@harrisonjansma">freeCodeCamp</a> (500k subscribers), <a href="https://towardsdatascience.com/@harrisonjansma">Towards Data Science</a>, and <a href="https://www.kdnuggets.com/2018/10/learn-data-science-broke.html">KDNuggets</a>..</p>
-
-<hr>
 
 ### My Professional Experience
   <p align="center">
