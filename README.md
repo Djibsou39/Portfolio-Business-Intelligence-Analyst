@@ -20,5 +20,3 @@ Vous pouvez consulter davantage d'informations dans mon [**CV**](https://github.
 - [Optimisez la gestion du stock d’une boutique en nettoyant ses données avec python](#Optimisez-la-gestion-du-stock-d'une-boutique-en-nettoyant-ses-données)
 - [Créez un tableau de bord dynamique avec Power BI pour visualiser l’avancement de projets](#Creez-un-tableau-de-bord-dynamique-avec-Power-BI)
 - [Analysez l’évolution des prix de l’immobilier avec Python](#Analyser-l'évolution-des-prix-de-l'immobilier)
-
-
