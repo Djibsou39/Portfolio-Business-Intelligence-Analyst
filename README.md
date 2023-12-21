@@ -10,7 +10,7 @@ Business Intelligence Analyst & Géomaticien
 
 <p>En tant que professionnel passionné de la géomatique et de l'analyse en business intelligence, je m'efforce de fusionner la puissance des données spatiales avec les principes analytiques pour fournir des insights stratégiques et des solutions innovantes. Mon expertise s'étend à la manipulation de données géospatiales, à la création de visualisations percutantes et à l'exploitation de technologies de business intelligence pour prendre des décisions éclairées. ce projet estcréé pour mettre en avant mes compétences analytiques et techniques (Excel, Python, SQL, Power BI, PowerPoint, et autres). </p>
 
-Pour me connaitre davantage, vous pouvez consulter [**CV**](https://public.tableau.com/app/profile/djibril.soumare/viz/Mock_up_Djibril/TableaudebordCV?publish=yes).
+Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.tableau.com/app/profile/djibril.soumare/viz/Mock_up_Djibril/TableaudebordCV?publish=yes).
 
 ## Les contenus
 - [Visualiser des données avec Excel](#Visualiser-de-données-avec-Excel)
