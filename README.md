@@ -16,3 +16,4 @@ Vous pouvez consulter davantage d'informations dans mon [**CV**](https://github.
 - [Visualiser des données avec Excel](#Visualiser-de-données-avec-Excel)
 - [Requêtez une base de données avec SQL](#Requêtez-une-base-de-données-avec-SQL)
 - [Collectez des données en respectant les normes RGPD](#Collectez-des-données-en-respectant-avec-les-normes-RGPD)
+- [Interrogez une base de données avec SQL pour suivre la satisfaction client]
