@@ -21,15 +21,13 @@ Pour me connaitre davantage, vous pouvez consulter [**CV**](https://public.table
 - [Créez un tableau de bord dynamique avec Power BI pour visualiser l’avancement de projets](#Creez-un-tableau-de-bord-dynamique-avec-Power-BI)
 - [Analysez l’évolution des prix de l’immobilier avec Python](#Analyser-l'évolution-des-prix-de-l'immobilier)
 ## Les projets du Portfolio
-### German cars data analysis 
-**Description:** The main goal of this project is to analyze a dataset scraped from https://www.autoscout24.de containing data in 46405 rows about cars on sale in Germany with production years from 2011 to 2021 using different Python libraries. Find out some interesting information and insights, visualize them, and present them using MS PowerPoint.<br>
-**Code:**<a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German-cars-Analysis.ipynb">
-  <code>german-cars-data-analysis.ipynb</code></a><br>
+### Visualiser des données avec Excel 
+**Description:**Ce projet concerne l'analyse de données clients de Primero Bank. La banque est inquiète car elle fait face à de nombreux départs de clients. Mehdi est chargé de présenter à Paola, la directrice marketing de Primero Bank, un plan d’action pour éviter d’autres vagues de départs. Avant de pouvoir établir ce plan d’action, il faut comprendre pourquoi les clients quittent la banque. Votre rôle sera donc de vous appuyer sur les données pour expliquer ces départs. Il s’agit d’un travail en deux temps où vous devrez d’abord produire une analyse à faire valider par Mehdi avant de visualiser vos résultats au travers d’une présentation que vous exposerez à Paola.<br>
 **Presentation:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German%20cars%20presentation%20Pavel%20Liaoshka.pdf">
   <code>PDF static version</code></a> <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German%20cars%20presentation%20Pavel%20Liaoshka.pptx">
   <code>PowerPoint PPTX dynamic version</code></a><br>
-**Original dataset:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/original%20dataset.csv">
+**Rapport:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/original%20dataset.csv">
   <code>german-cars-dataset.csv</code></a><br>
 **Skills:** analytical thinking, data cleaning, data analysis, data vizualization, presentations<br>
-**Hard skills:** MS PowerPoint, Python: Pandas, NumPy, Mathplotlib, Seaborn. <br>
+**Hard skills:** MS PowerPoint, Excel. <br>
 **Results:** An analysis of a dataset containing information about cars posted on AutoScaut 24 was conducted. Some insights were found, visualized, and included in the presentation.
