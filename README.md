@@ -28,6 +28,6 @@ Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.t
   <code>Présentation des analyses</code></a><br>
 **Rapport:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf">
   <code> Rapport d'analyse de données</code></a><br>
-**Skills:** analytical thinking, data cleaning, data analysis, data vizualization, presentations<br>
+**Skills:** Nettoyage des données, Analyse des données, visualisation des données et Communication des résultats d'analyse<br>
 **Hard skills:** MS PowerPoint, Excel. <br>
 **Results:** An analysis of a dataset containing information about cars posted on AutoScaut 24 was conducted. Some insights were found, visualized, and included in the presentation.
