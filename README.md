@@ -37,10 +37,10 @@ Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.t
 L’ambition du directeur général de l'entreprise est d'utiliser les données pour analyser le portefeuille des contrats actuels et prendre des décisions basées sur les données.
 Le but du projet est de revoir les prix des contrats d’assurance pour se distinguer de leurs concurrents. Cela implique de réviser les prix des contrats d'assurance pour les adapter au profil des clients et à leur situation géographique, afin de proposer aux clients des prix compétitifs et clairs. 
 En tant que consultant en Business Intelligence Analyst, ma mission est d’effectuer une analyse de l'état actuel des contrats
-Pour réaliser cette mission, plusieurs étapes sont nécessaires, entre autres : 
--Mise en place de la base de données dans un SGBDR;
--La complétion de dictionnaire de données ;
--Remplissage du modèle d’aide aux requêtes SQL;
+Pour réaliser cette mission, plusieurs étapes sont nécessaires, entre autres : <br>
+-Mise en place de la base de données dans un SGBDR;<br>
+-La complétion de dictionnaire de données ;<br>
+-Remplissage du modèle d’aide aux requêtes SQL;<br>
 -Effectuer des requêtes SQL pour analyser les données.<br>
 **Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_2_Visualiation_032023.pptx">
   <code>Présentation des analyses</code></a><br>
