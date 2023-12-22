@@ -30,4 +30,3 @@ Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.t
   <code> Rapport d'analyse de données</code></a><br>
 **Skills:** Nettoyage des données, Analyse des données, visualisation des données et Communication des résultats d'analyse<br>
 **Hard skills:** Microsoft Excel, PowerPoint. <br>
-**Results:** An analysis of a dataset containing information about cars posted on AutoScaut 24 was conducted. Some insights were found, visualized, and included in the presentation.
