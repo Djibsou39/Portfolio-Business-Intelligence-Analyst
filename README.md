@@ -24,11 +24,11 @@ Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.t
 ### Visualiser des données avec Excel 
 
 **Description:** Ce projet concerne l'analyse de données clients de Primero Bank. La banque est inquiète car elle fait face à de nombreux départs de clients. Mehdi est chargé de présenter à Paola, la directrice marketing de Primero Bank, un plan d’action pour éviter d’autres vagues de départs. Avant de pouvoir établir ce plan d’action, il faut comprendre pourquoi les clients quittent la banque. Votre rôle sera donc de vous appuyer sur les données pour expliquer ces départs. Il s’agit d’un travail en deux temps où vous devrez d’abord produire une analyse à faire valider par Mehdi avant de visualiser vos résultats au travers d’une présentation que vous exposerez à Paola.<br>
-**Presentation:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German%20cars%20presentation%20Pavel%20Liaoshka.pdf">
-  <code>PDF static version</code></a> <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German%20cars%20presentation%20Pavel%20Liaoshka.pptx">
+**Presentation:** <a [href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German%20cars%20presentation%20Pavel%20Liaoshka.pdf](https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_2_Visualiation_032023.pptx)">
+  
   <code>PowerPoint PPTX dynamic version</code></a><br>
-**Rapport:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/original%20dataset.csv">
-  <code>german-cars-dataset.csv</code></a><br>
+**Rapport:** <a [Visualiser les données avec Excel/Soumare_Djibril_1_rapport_032023.pdf](https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf)">
+  <code> Rapport d'analyse de données</code></a><br>
 **Skills:** analytical thinking, data cleaning, data analysis, data vizualization, presentations<br>
 **Hard skills:** MS PowerPoint, Excel. <br>
 **Results:** An analysis of a dataset containing information about cars posted on AutoScaut 24 was conducted. Some insights were found, visualized, and included in the presentation.
