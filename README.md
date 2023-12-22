@@ -49,4 +49,4 @@ Pour réaliser cette mission, plusieurs étapes sont nécessaires, entre autres�
 **Liste de requêtes:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Requ%C3%AAter%20une%20base%20de%20donn%C3%A9es%20avec%20SQL/Soumare_Djibril_2_liste_analyses_042023.pdf">
   <code> Liste de besoin d'analyses</code></a><br>
 **Skills:** Rédaction d'un document technique<br>
-**Hard skills:**Créer une base de données et effectuer des requêtes afin de répondre à des besoins utilisateurs<br>
+**Hard skills:** Créer une base de données et effectuer des requêtes afin de répondre à des besoins utilisateurs<br>
