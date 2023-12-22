@@ -28,8 +28,8 @@ Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.t
   <code>Présentation des analyses</code></a><br>
 **Rapport:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf">
   <code> Rapport d'analyse de données</code></a><br>
-**Skills:** Nettoyage des données, Analyse des données, visualisation des données et Communication des résultats d'analyse<br>
-**Hard skills:** Microsoft Excel, PowerPoint. <br>
+**Skills:**Nettoyage des données, Analyse des données, visualisation des données et Communication des résultats d'analyse<br>
+**Hard skills:** Microsoft Excel, PowerPoint.<br>
 
 ### Requêtez une base de données avec SQL
 
@@ -48,5 +48,5 @@ Pour réaliser cette mission, plusieurs étapes sont nécessaires, entre autres�
   <code>Documentation technique</code></a><br>
 **Liste de requêtes:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Requ%C3%AAter%20une%20base%20de%20donn%C3%A9es%20avec%20SQL/Soumare_Djibril_2_liste_analyses_042023.pdf">
   <code> Liste de besoin d'analyses</code></a><br>
-**Skills:** Nettoyage des données, Analyse des données, visualisation des données et Communication des résultats d'analyse<br>
-**Hard skills:** Microsoft Excel, PowerPoint.<br>
+**Skills:** Rédaction d'un document technique<br>
+**Hard skills:**Créer une base de données et effectuer des requêtes afin de répondre à des besoins utilisateurs<br>
