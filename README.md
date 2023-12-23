@@ -28,7 +28,7 @@ Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.t
   <code>Présentation des analyses</code></a><br>
 **Rapport:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf">
   <code> Rapport d'analyse de données</code></a><br>
-**Skills:**Nettoyage des données, Analyse des données, visualisation des données et Communication des résultats d'analyse<br>
+**Skills:** Nettoyage des données, Analyse des données, visualisation des données et Communication des résultats d'analyse<br>
 **Hard skills:** Microsoft Excel, PowerPoint.<br>
 
 ### Requêtez une base de données avec SQL
