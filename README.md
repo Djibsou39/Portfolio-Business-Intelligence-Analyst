@@ -64,5 +64,5 @@ Pour relever ce défi, la mise en place des mesures de sécurité appropriées p
   <code>Rapport technique</code></a><br>
 **Recommandation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_1_Recommandations_042023.pdf">
   <code>Mes Recommandations</code></a><br>
-**Skills:** Rédaction d'un document technique<br>
-**Hard skills:** Créer une base de données et effectuer des requêtes afin de répondre à des besoins utilisateurs<br>
+**Skills:** Collecter des données en appliquant les normes de protection, Documenter et transférer des données à une zone de préparation en respectant les normes, Préparer des données en garantissant le respect des processus qualité<br>
+**Hard skills:** Nettoyage de données avec Power Query, Créer une base de données et effectuer des requêtes afin de répondre au norme RGPD<br>
