@@ -43,7 +43,7 @@ Pour réaliser cette mission, plusieurs étapes sont nécessaires, entre autres�
 **Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Requ%C3%AAter%20une%20base%20de%20donn%C3%A9es%20avec%20SQL/Soumare_Djibril_3_presentation_042023.pdf">
   <code>Présentation des livrables</code></a><br>
 **Document:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Requ%C3%AAter%20une%20base%20de%20donn%C3%A9es%20avec%20SQL/Soumare_Djibril_1_documentation_technique_042023.pdf">
-  <code>Documentation technique</code></a><br>
+  <code>Rapport technique</code></a><br>
 **Liste de requêtes:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Requ%C3%AAter%20une%20base%20de%20donn%C3%A9es%20avec%20SQL/Soumare_Djibril_2_liste_analyses_042023.pdf">
   <code> Liste de besoin d'analyses</code></a><br>
 **Skills:** Rédaction d'un document technique<br>
