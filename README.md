@@ -23,7 +23,7 @@ Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.t
 ## Les projets du Portfolio
 ### Visualiser des données avec Excel 
 **Description:** Ce projet concerne l'analyse de données clients de Primero Bank. La banque est inquiète car elle fait face à de nombreux départs de clients. Mehdi est chargé de présenter à Paola, la directrice marketing de Primero Bank, un plan d’action pour éviter d’autres vagues de départs. Avant de pouvoir établir ce plan d’action, il faut comprendre pourquoi les clients quittent la banque. Votre rôle sera donc de vous appuyer sur les données pour expliquer ces départs. Il s’agit d’un travail en deux temps où je devrai d’abord produire une analyse à faire valider par Mehdi avant de visualiser vos résultats au travers d’une présentation que vous exposerez à Paola.<br>
-**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_2_Visualiation_032023.pptx">
+**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_2_Visualiation_032023.pdf">
   <code>Présentation des analyses</code></a><br>
 **Rapport:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf">
   <code> Rapport d'analyse de données</code></a><br>
