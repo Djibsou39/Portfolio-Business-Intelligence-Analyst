@@ -56,13 +56,13 @@ C’est ainsi que la direction de Dev’Immediat m’a confié cette mission en 
 Pour relever ce défi, la mise en place des mesures de sécurité appropriées pour protéger les données dans le cadre de cette mission nécessitent   les  actions suivantes :<br>
 -Faire des recommandations sur les règles de gestion à mettre en place immédiatement sur les données du CRM pour être conforme au RGPD ;<br>
 -Mettre à disposition de l'équipe de performance commerciale de données du CRM en faisant une extraction et  l’anonymisation de données pour être en conformité avec le RGPD ;<br>
--Documenter toutes les étapes de l'opération démontrant le respect des processus qualité dans la collecte, la préparation des données et la rédaction de préconisations ;<br>
+-Documenter toutes les étapes de l'opération démontrant le respect des processus qualité dans la collecte, la préparation des données et la rédaction de préconisations.<br>
 
-**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Requ%C3%AAter%20une%20base%20de%20donn%C3%A9es%20avec%20SQL/Soumare_Djibril_3_presentation_042023.pdf">
-  <code>Présentation des livrables</code></a><br>
-**Document:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Requ%C3%AAter%20une%20base%20de%20donn%C3%A9es%20avec%20SQL/Soumare_Djibril_1_documentation_technique_042023.pdf">
+**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_presentation_042023.pdf">
+  <code>Présentation des résultats</code></a><br>
+**Document:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_3_Rapport_042023.pdf">
   <code>Rapport technique</code></a><br>
-**Liste de requêtes:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Requ%C3%AAter%20une%20base%20de%20donn%C3%A9es%20avec%20SQL/Soumare_Djibril_2_liste_analyses_042023.pdf">
-  <code> Liste de besoin d'analyses</code></a><br>
+**Recommandation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_1_Recommandations_042023.pdf">
+  <code>Mes Recommandations</code></a><br>
 **Skills:** Rédaction d'un document technique<br>
 **Hard skills:** Créer une base de données et effectuer des requêtes afin de répondre à des besoins utilisateurs<br>
