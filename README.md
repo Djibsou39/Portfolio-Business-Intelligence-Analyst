@@ -71,13 +71,13 @@ Pour relever ce défi, la mise en place des mesures de sécurité appropriées p
 **Contexte:** BestMarket, une entreprise de la grande distribution. L’entreprise souhaite utiliser les données des retours et avis de ses clients pour améliorer la qualité de son réseau de magasins.
 L’entreprise reçoit fréquemment des réclamations, des suggestions ou des demandes d’informations, avec des exigences de plus en plus importantes. Cependant, les retours clients proviennent de différentes sources, et les équipes ont du mal à s'y retrouver. C’est ainsi que cette mission de Business Intelligence Analyst est mise en place pour déployer une stratégie qui permet aux clients d’obtenir la meilleure expérience possible, afin qu’il ait envie de revenir dans les magasins. Pour cela, le Business Intelligence Analyst devra synthétiser les besoins du service client, regrouper les données dans une base de données et les analyser pour répondre aux questions du responsable du service client.<br>
 
-**Expression des besoins:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_presentation_042023.pdf">
-  <code>Présentation des résultats</code></a><br>
-**Document:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_3_Rapport_042023.pdf">
+**Expression des besoins:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Interrogez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL%20pour%20suivre%20la%20satisfaction%20client/soumare_Djibril_1_expression_%20besoin_052023.pdf">
+  <code>Liste des besoins exprimés</code></a><br>
+**Document:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Interrogez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL%20pour%20suivre%20la%20satisfaction%20client/Soumare_Djibril_2_documentation_technique_052023.pdf">
   <code>Rapport technique</code></a><br>
-**Liste des requêtes:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_3_Rapport_042023.pdf">
+**Liste des requêtes:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Interrogez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL%20pour%20suivre%20la%20satisfaction%20client/Soumare_Djibril_3_requetes_052023.pdf">
   <code>Les requêtes réalisées</code></a><br>
-**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_1_Recommandations_042023.pdf">
+**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Interrogez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL%20pour%20suivre%20la%20satisfaction%20client/soumare_Djibril_4_presentation_052023.pdf">
   <code>Présentation des résultats</code></a><br>
 **Skills:** Collecter des données en appliquant les normes de protection, Documenter et transférer des données à une zone de préparation en respectant les normes, Préparer des données en garantissant le respect des processus qualité<br>
 **Hard skills:** Nettoyage de données avec Power Query, Créer une base de données et effectuer des requêtes afin de répondre au norme RGPD<br>
