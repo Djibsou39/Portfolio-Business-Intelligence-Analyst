@@ -22,7 +22,7 @@ Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.t
 - [Analysez l’évolution des prix de l’immobilier avec Python](#Analyser-l'évolution-des-prix-de-l'immobilier)
 ## Les projets du Portfolio
 ### Visualiser des données avec Excel 
-**Description:** Ce projet concerne l'analyse de données clients de Primero Bank. La banque est inquiète car elle fait face à de nombreux départs de clients. Mehdi est chargé de présenter à Paola, la directrice marketing de Primero Bank, un plan d’action pour éviter d’autres vagues de départs. Avant de pouvoir établir ce plan d’action, il faut comprendre pourquoi les clients quittent la banque. Votre rôle sera donc de vous appuyer sur les données pour expliquer ces départs. Il s’agit d’un travail en deux temps où je devrai d’abord produire une analyse à faire valider par Mehdi avant de visualiser vos résultats au travers d’une présentation que vous exposerez à Paola.<br>
+**Contexte:** Ce projet concerne l'analyse de données clients de Primero Bank. La banque est inquiète car elle fait face à de nombreux départs de clients. Mehdi est chargé de présenter à Paola, la directrice marketing de Primero Bank, un plan d’action pour éviter d’autres vagues de départs. Avant de pouvoir établir ce plan d’action, il faut comprendre pourquoi les clients quittent la banque. Votre rôle sera donc de vous appuyer sur les données pour expliquer ces départs. Il s’agit d’un travail en deux temps où je devrai d’abord produire une analyse à faire valider par Mehdi avant de visualiser vos résultats au travers d’une présentation que vous exposerez à Paola.<br>
 **Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_2_Visualiation_032023.pdf">
   <code>Présentation des analyses</code></a><br>
 **Rapport:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf">
@@ -31,7 +31,7 @@ Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.t
 **Hard skills:** Microsoft Excel, PowerPoint.<br>
 
 ### Requêtez une base de données avec SQL
-**Description:** Dat’Assur Habitation, une société spécialisée dans l’assurance habitation pour les particuliers.
+**Contexte:** Dat’Assur Habitation, une société spécialisée dans l’assurance habitation pour les particuliers.
 L’ambition du directeur général de l'entreprise est d'utiliser les données pour analyser le portefeuille des contrats actuels et prendre des décisions basées sur les données.
 Le but du projet est de revoir les prix des contrats d’assurance pour se distinguer de leurs concurrents. Cela implique de réviser les prix des contrats d'assurance pour les adapter au profil des clients et à leur situation géographique, afin de proposer aux clients des prix compétitifs et clairs. 
 En tant que consultant en Business Intelligence Analyst, ma mission est d’effectuer une analyse de l'état actuel des contrats
@@ -50,7 +50,7 @@ Pour réaliser cette mission, plusieurs étapes sont nécessaires, entre autres�
 **Hard skills:** Créer une base de données et effectuer des requêtes afin de répondre à des besoins utilisateurs<br>
 
 ### Collectez des données en respectant les normes RGPD
-**Description:** Dat’Assur Dev’Immediat est un courtier en  assurance automobile, dont le métier est de faire de la prospection commerciale et de faire de la marge de bénéfice sur la vente des contrats. L‘entreprise  a été sanctionnée par la CNIL à la suite d'une plainte d'un client. Cette sanction consiste en une limitation temporaire des traitements de données. 
+**Contexte:** Dat’Assur Dev’Immediat est un courtier en  assurance automobile, dont le métier est de faire de la prospection commerciale et de faire de la marge de bénéfice sur la vente des contrats. L‘entreprise  a été sanctionnée par la CNIL à la suite d'une plainte d'un client. Cette sanction consiste en une limitation temporaire des traitements de données. 
 Pour obtenir la levée de cette sanction, l'entreprise doit s'assurer que les règles du règlement général sur la protection de données (RGPD) sont parfaitement appliquées et intégrées dans ses processus. 
 C’est ainsi que la direction de Dev’Immediat m’a confié cette mission en tant que consultant BI pour explorer,  traiter leur données CRM afin de proposer une solution  pour la confidentialité et de protection de données à caractère personnel.
 Pour relever ce défi, la mise en place des mesures de sécurité appropriées pour protéger les données dans le cadre de cette mission nécessitent   les  actions suivantes :<br>
@@ -64,5 +64,20 @@ Pour relever ce défi, la mise en place des mesures de sécurité appropriées p
   <code>Rapport technique</code></a><br>
 **Recommandation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_1_Recommandations_042023.pdf">
   <code>Mes Recommandations</code></a><br>
+**Skills:** Collecter des données en appliquant les normes de protection, Documenter et transférer des données à une zone de préparation en respectant les normes, Préparer des données en garantissant le respect des processus qualité<br>
+**Hard skills:** Nettoyage de données avec Power Query, Créer une base de données et effectuer des requêtes afin de répondre au norme RGPD<br>
+
+### Interrogez une base de données avec SQL pour suivre la satisfaction client
+**Contexte:** BestMarket, une entreprise de la grande distribution. L’entreprise souhaite utiliser les données des retours et avis de ses clients pour améliorer la qualité de son réseau de magasins.
+L’entreprise reçoit fréquemment des réclamations, des suggestions ou des demandes d’informations, avec des exigences de plus en plus importantes. Cependant, les retours clients proviennent de différentes sources, et les équipes ont du mal à s'y retrouver. C’est ainsi que cette mission de Business Intelligence Analyst est mise en place pour déployer une stratégie qui permet aux clients d’obtenir la meilleure expérience possible, afin qu’il ait envie de revenir dans les magasins. Pour cela, le Business Intelligence Analyst devra synthétiser les besoins du service client, regrouper les données dans une base de données et les analyser pour répondre aux questions du responsable du service client.<br>
+
+**Expression des besoins:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_presentation_042023.pdf">
+  <code>Présentation des résultats</code></a><br>
+**Document:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_3_Rapport_042023.pdf">
+  <code>Rapport technique</code></a><br>
+**Liste des requêtes:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_3_Rapport_042023.pdf">
+  <code>Les requêtes réalisées</code></a><br>
+**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_1_Recommandations_042023.pdf">
+  <code>Présentation des résultats</code></a><br>
 **Skills:** Collecter des données en appliquant les normes de protection, Documenter et transférer des données à une zone de préparation en respectant les normes, Préparer des données en garantissant le respect des processus qualité<br>
 **Hard skills:** Nettoyage de données avec Power Query, Créer une base de données et effectuer des requêtes afin de répondre au norme RGPD<br>
