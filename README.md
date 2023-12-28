@@ -27,8 +27,7 @@ Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.t
   <code>Présentation des analyses</code></a><br>
 **Rapport:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf">
   <code> Rapport d'analyse de données</code></a><br>
-**Skills:** Nettoyage des données, Analyse des données, visualisation des données et Communication des résultats d'analyse<br>
-**Hard skills:** Microsoft Excel, PowerPoint.<br>
+**Compétences:** Nettoyage des données, Analyse exploratoire des données Microsoft Excel, visualisation des données et Communication des résultats d'analyse avec PowerPoint<br>
 
 ### Requêtez une base de données avec SQL
 **Contexte:** Dat’Assur Habitation, une société spécialisée dans l’assurance habitation pour les particuliers.
@@ -46,8 +45,7 @@ Pour réaliser cette mission, plusieurs étapes sont nécessaires, entre autres�
   <code>Rapport technique</code></a><br>
 **Liste de requêtes:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Requ%C3%AAter%20une%20base%20de%20donn%C3%A9es%20avec%20SQL/Soumare_Djibril_2_liste_analyses_042023.pdf">
   <code> Liste de besoin d'analyses</code></a><br>
-**Skills:** Rédaction d'un document technique<br>
-**Hard skills:** Créer une base de données et effectuer des requêtes afin de répondre à des besoins utilisateurs<br>
+**Skills:** Rédaction d'un document technique, Créer une base de données et effectuer des requêtes afin de répondre à des besoins utilisateurs<br>
 
 ### Collectez des données en respectant les normes RGPD
 **Contexte:** Dat’Assur Dev’Immediat est un courtier en  assurance automobile, dont le métier est de faire de la prospection commerciale et de faire de la marge de bénéfice sur la vente des contrats. L‘entreprise  a été sanctionnée par la CNIL à la suite d'une plainte d'un client. Cette sanction consiste en une limitation temporaire des traitements de données. 
@@ -64,8 +62,7 @@ Pour relever ce défi, la mise en place des mesures de sécurité appropriées p
   <code>Rapport technique</code></a><br>
 **Recommandation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Collecter%20des%20donn%C3%A9es%20en%20respectant%20les%20normes%20RGPD/Soumare_Djibril_1_Recommandations_042023.pdf">
   <code>Mes Recommandations</code></a><br>
-**Skills:** Collecter des données en appliquant les normes de protection, Documenter et transférer des données à une zone de préparation en respectant les normes, Préparer des données en garantissant le respect des processus qualité<br>
-**Hard skills:** Nettoyage de données avec Power Query, Créer une base de données et effectuer des requêtes afin de répondre au norme RGPD<br>
+**Compétences:** Collecter des données en appliquant les normes de protection, Documenter et transférer des données à une zone de préparation en respectant les normes, Préparer des données en garantissant le respect des processus qualité, Nettoyage de données avec Power Query, Créer une base de données et effectuer des requêtes afin de répondre au norme RGPD.<br>
 
 ### Interrogez une base de données avec SQL pour suivre la satisfaction client
 **Contexte:** BestMarket, une entreprise de la grande distribution. L’entreprise souhaite utiliser les données des retours et avis de ses clients pour améliorer la qualité de son réseau de magasins.
@@ -79,5 +76,4 @@ L’entreprise reçoit fréquemment des réclamations, des suggestions ou des de
   <code>Les requêtes réalisées</code></a><br>
 **Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Interrogez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL%20pour%20suivre%20la%20satisfaction%20client/soumare_Djibril_4_presentation_052023.pdf">
   <code>Présentation des résultats</code></a><br>
-**Skills:** Collecter des données en appliquant les normes de protection, Documenter et transférer des données à une zone de préparation en respectant les normes, Préparer des données en garantissant le respect des processus qualité<br>
-**Hard skills:** Nettoyage de données avec Power Query, Créer une base de données et effectuer des requêtes afin de répondre au norme RGPD<br>
+**Compétences:** Rédiger des scripts avancés en SQL pour créer et alimenter une base de données, Justifier la cohérence des résultats des requêtes SQL avec la problématique métier, Maintenir à jour un catalogue de données afin de garantir son accessibilité et Synthétiser les besoins métiers des utilisateurs dans la base de données.<br>
