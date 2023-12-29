@@ -74,7 +74,7 @@ L’entreprise reçoit fréquemment des réclamations, des suggestions ou des de
   <code>Rapport technique</code></a><br>
 **Liste des requêtes:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Interrogez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL%20pour%20suivre%20la%20satisfaction%20client/Soumare_Djibril_3_requetes_052023.pdf">
   <code>Les requêtes réalisées</code></a><br>
-**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Interrogez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL%20pour%20suivre%20la%20satisfaction%20client/soumare_Djibril_4_presentation_052023.pdf"><br>
+**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Interrogez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL%20pour%20suivre%20la%20satisfaction%20client/soumare_Djibril_4_presentation_052023.pdf"><code>Présentation de resultat d'analyses</code></a><br>
 **Compétences:** Rédiger des scripts avancés en SQL pour créer et alimenter une base de données, Justifier la cohérence des résultats des requêtes SQL avec la problématique métier, Maintenir à jour un catalogue de données afin de garantir son accessibilité et Synthétiser les besoins métiers des utilisateurs dans la base de données.<br>
 
 ### Optimisez la gestion du stock d’une boutique en nettoyant ses données 
