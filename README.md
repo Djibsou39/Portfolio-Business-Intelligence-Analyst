@@ -80,9 +80,11 @@ L’entreprise reçoit fréquemment des réclamations, des suggestions ou des de
 ### Optimisez la gestion du stock d’une boutique en nettoyant ses données 
 **Contexte:** BottleNeck, un prestigieux marchand de vin opérant dans la vente en ligne, consiste à optimiser la gestion des ressources et des clients. Actuellement, l'entreprise utilise un système ERP qui n'est pas intégré à son site de vente en ligne, créant ainsi des défis dans la gestion des stocks. Les outils actuels sont rudimentaires, et la visibilité des ventes en ligne est limitée en raison d'un accès restreint au back-office. Dans l'attente d'une solution centralisée, une mission du Business Intelligence Analyst m’a été confié quise déroule en plusieurs étapes. Tout d'abord, il est nécessaire de joindre les deux exports : celui de l'ERP, comprenant les références produit, les prix de vente et les niveaux de stock, et celui d'une table de la boutique en ligne, contenant des informations détaillées sur les produits commercialisés en ligne tels que le nom, la description et le nombre de ventes.<br>
 
-**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_2_Visualiation_032023.pdf">
-  <code>Présentation des analyses</code></a><br>
-**Rapport:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf">
-  <code> Rapport d'analyse de données</code></a><br>
+**Notebook:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_1_notebook_062023.ipynb">
+  <code>Code python</code></a><br>
+**Export du fichier final:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_2_fichier_donn%C3%A9es_062023.xlsx">
+  <code>Export de resultat d'analyses</code></a><br>
+**Présentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_3_presentation_062023.pdf">
+  <code>Présentation de resultat d'analyses</code></a><br>
 **Compétences:** Nettoyage des données, Analyse exploratoire des données avec Excel, visualisation des données et Communication des résultats d'analyse avec PowerPoint<br>
   <code>Présentation des résultats</code></a><br>
