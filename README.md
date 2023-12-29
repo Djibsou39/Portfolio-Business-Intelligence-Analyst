@@ -27,7 +27,7 @@ Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.t
   <code>Présentation des analyses</code></a><br>
 **Rapport:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf">
   <code> Rapport d'analyse de données</code></a><br>
-**c:** Nettoyage des données, Analyse exploratoire des données avec Excel, visualisation des données et Communication des résultats d'analyse avec PowerPoint<br>
+**Compétences:** Nettoyage des données, Analyse exploratoire des données avec Excel, visualisation des données et Communication des résultats d'analyse avec PowerPoint<br>
 
 ### Requêtez une base de données avec SQL
 **Contexte:** Dat’Assur Habitation, une société spécialisée dans l’assurance habitation pour les particuliers.
@@ -75,5 +75,14 @@ L’entreprise reçoit fréquemment des réclamations, des suggestions ou des de
 **Liste des requêtes:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Interrogez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL%20pour%20suivre%20la%20satisfaction%20client/Soumare_Djibril_3_requetes_052023.pdf">
   <code>Les requêtes réalisées</code></a><br>
 **Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Interrogez%20une%20base%20de%20donn%C3%A9es%20avec%20SQL%20pour%20suivre%20la%20satisfaction%20client/soumare_Djibril_4_presentation_052023.pdf">
-  <code>Présentation des résultats</code></a><br>
 **Compétences:** Rédiger des scripts avancés en SQL pour créer et alimenter une base de données, Justifier la cohérence des résultats des requêtes SQL avec la problématique métier, Maintenir à jour un catalogue de données afin de garantir son accessibilité et Synthétiser les besoins métiers des utilisateurs dans la base de données.<br>
+
+### Visualiser des données avec Excel 
+**Contexte:** BottleNeck, un prestigieux marchand de vin opérant dans la vente en ligne, consiste à optimiser la gestion des ressources et des clients. Actuellement, l'entreprise utilise un système ERP qui n'est pas intégré à son site de vente en ligne, créant ainsi des défis dans la gestion des stocks. Les outils actuels sont rudimentaires, et la visibilité des ventes en ligne est limitée en raison d'un accès restreint au back-office. Dans l'attente d'une solution centralisée, une mission du Business Intelligence Analyst m’a été confié quise déroule en plusieurs étapes. Tout d'abord, il est nécessaire de joindre les deux exports : celui de l'ERP, comprenant les références produit, les prix de vente et les niveaux de stock, et celui d'une table de la boutique en ligne, contenant des informations détaillées sur les produits commercialisés en ligne tels que le nom, la description et le nombre de ventes.<br>
+
+**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_2_Visualiation_032023.pdf">
+  <code>Présentation des analyses</code></a><br>
+**Rapport:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf">
+  <code> Rapport d'analyse de données</code></a><br>
+**Compétences:** Nettoyage des données, Analyse exploratoire des données avec Excel, visualisation des données et Communication des résultats d'analyse avec PowerPoint<br>
+  <code>Présentation des résultats</code></a><br>
