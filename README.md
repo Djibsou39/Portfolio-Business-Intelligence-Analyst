@@ -87,4 +87,4 @@ L’entreprise reçoit fréquemment des réclamations, des suggestions ou des de
 **Présentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_3_presentation_062023.pdf">
   <code>Présentation de resultat d'analyses</code></a><br>
 **Compétences:** Nettoyage des données, Analyse exploratoire des données avec Excel, visualisation des données et Communication des résultats d'analyse avec PowerPoint<br>
-  <code>Présentation des résultats</code></a><br>
+  
