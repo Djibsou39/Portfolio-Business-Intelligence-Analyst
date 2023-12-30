@@ -94,7 +94,8 @@ L’entreprise reçoit fréquemment des réclamations, des suggestions ou des de
 **canevas stratégique:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_1_notebook_062023.ipynb">
   <code>Product Strategy Canvas</code></a><br>
 **Préparation de données:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_2_fichier_donn%C3%A9es_062023.xlsx">
-  <code>Données traitées</code></a><br>
+  <code>Rapport de traitement de données</code></a> <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_2_fichier_donn%C3%A9es_062023.xlsx">
+  <code>Les données traitées</code></a><br>
 **Modèle relationnel:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_3_presentation_062023.pdf">
   <code>Graphique du modèle relationnel</code></a><br>
 **Tableau de Bord:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_3_presentation_062023.pdf">
