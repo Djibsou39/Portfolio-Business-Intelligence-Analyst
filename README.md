@@ -87,4 +87,16 @@ L’entreprise reçoit fréquemment des réclamations, des suggestions ou des de
 **Présentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_3_presentation_062023.pdf">
   <code>Présentation de resultat d'analyses</code></a><br>
 **Compétences:** Développer des codes avec python pour identifier les problèmes de qualité des données afin de les corriger avant une analyse et Traiter les problèmes de qualité de données, Réaliser des analyses univariées afin de valider la qualité globale des données et Synthétiser les incohérences résolues et restantes afin de créer un plan d'action.<br>
-  
+
+### Créez un tableau de bord dynamique avec Power BI pour visualiser l’avancement de projets 
+**Contexte:** BottleNeck, un prestigieux marchand de vin opérant dans la vente en ligne, consiste à optimiser la gestion des ressources et des clients. Actuellement, l'entreprise utilise un système ERP qui n'est pas intégré à son site de vente en ligne, créant ainsi des défis dans la gestion des stocks. Les outils actuels sont rudimentaires, et la visibilité des ventes en ligne est limitée en raison d'un accès restreint au back-office. Dans l'attente d'une solution centralisée, une mission du Business Intelligence Analyst m’a été confié quise déroule en plusieurs étapes. Tout d'abord, il est nécessaire de joindre les deux exports : celui de l'ERP, comprenant les références produit, les prix de vente et les niveaux de stock, et celui d'une table de la boutique en ligne, contenant des informations détaillées sur les produits commercialisés en ligne tels que le nom, la description et le nombre de ventes.<br>
+
+**canevas stratégique:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_1_notebook_062023.ipynb">
+  <code>Jupyter Notebook</code></a><br>
+**Préparation de données:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_2_fichier_donn%C3%A9es_062023.xlsx">
+  <code>Export de resultat d'analyses</code></a><br>
+**Modèle relationnel:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_3_presentation_062023.pdf">
+  <code>Présentation de resultat d'analyses</code></a><br>
+**Tableau de Bord:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_3_presentation_062023.pdf">
+  <code>Présentation de resultat d'analyses</code></a><br>
+**Compétences:** Développer des codes avec python pour identifier les problèmes de qualité des données afin de les corriger avant une analyse et Traiter les problèmes de qualité de données, Réaliser des analyses univariées afin de valider la qualité globale des données et Synthétiser les incohérences résolues et restantes afin de créer un plan d'action.<br>
