@@ -86,5 +86,5 @@ L’entreprise reçoit fréquemment des réclamations, des suggestions ou des de
   <code>Export de resultat d'analyses</code></a><br>
 **Présentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Optimisez%20la%20gestion%20du%20stock%20d%E2%80%99une%20boutique%20en%20nettoyant%20ses%20donn%C3%A9es/Soumare_Djibril_3_presentation_062023.pdf">
   <code>Présentation de resultat d'analyses</code></a><br>
-**Compétences:** Nettoyage des données, Analyse exploratoire des données avec Excel, visualisation des données et Communication des résultats d'analyse avec PowerPoint<br>
+**Compétences:** Développer des codes avec python pour identifier les problèmes de qualité des données afin de les corriger avant une analyse et Traiter les problèmes de qualité de données, Réaliser des analyses univariées afin de valider la qualité globale des données et Synthétiser les incohérences résolues et restantes afin de créer un plan d'action.<br>
   
