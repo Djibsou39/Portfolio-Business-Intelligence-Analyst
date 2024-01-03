@@ -106,3 +106,11 @@ Pour atteindre cet objectif, la mission est structurée en différentes étapes,
 **Tableau de Bord:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Cr%C3%A9ez%20un%20tableau%20de%20bord%20dynamique%20avec%20Power%20BI%20pour%20visualiser%20l%E2%80%99avancement%20de%20projets/Soumare_Djibril_4_Tableau_de_bord_082023.pbix">
   <code>Le tableau de bord</code></a><br>
 **Compétences:** Identifier les besoins d’un projet pour réaliser un dashboard adapté, Configurer un tableau de bord en fonction des besoins utilisateurs, Présenter un tableau de bord aux utilisateurs permettant de visualiser les résultats.<br>
+
+### Analysez l’évolution des prix de l’immobilier avec Python 
+**Contexte:** Ce projet concerne l'analyse de données clients de Primero Bank. La banque est inquiète car elle fait face à de nombreux départs de clients. Mehdi est chargé de présenter à Paola, la directrice marketing de Primero Bank, un plan d’action pour éviter d’autres vagues de départs. Avant de pouvoir établir ce plan d’action, il faut comprendre pourquoi les clients quittent la banque. Votre rôle sera donc de vous appuyer sur les données pour expliquer ces départs. Il s’agit d’un travail en deux temps où je devrai d’abord produire une analyse à faire valider par Mehdi avant de visualiser vos résultats au travers d’une présentation que vous exposerez à Paola.<br>
+**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_2_Visualiation_032023.pdf">
+  <code>Présentation des analyses</code></a><br>
+**Traitement et Analyse avec python:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf">
+  <code> Rapport d'analyse de données</code></a><br>
+**Compétences:** Nettoyage des données, Analyse exploratoire des données avec Excel, visualisation des données et Communication des résultats d'analyse avec PowerPoint<br>
