@@ -105,4 +105,4 @@ Pour atteindre cet objectif, la mission est structurée en différentes étapes,
   <code>Graphique du modèle relationnel</code></a><br>
 **Tableau de Bord:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Cr%C3%A9ez%20un%20tableau%20de%20bord%20dynamique%20avec%20Power%20BI%20pour%20visualiser%20l%E2%80%99avancement%20de%20projets/Soumare_Djibril_4_Tableau_de_bord_082023.pbix">
   <code>Le tableau de bord</code></a><br>
-**Compétences:** Développer des codes avec python pour identifier les problèmes de qualité des données afin de les corriger avant une analyse et Traiter les problèmes de qualité de données, Réaliser des analyses univariées afin de valider la qualité globale des données et Synthétiser les incohérences résolues et restantes afin de créer un plan d'action.<br>
+**Compétences:** Identifier les besoins d’un projet pour réaliser un dashboard adapté, Configurer un tableau de bord en fonction des besoins utilisateurs, Présenter un tableau de bord aux utilisateurs permettant de visualiser les résultats.<br>
