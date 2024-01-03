@@ -89,10 +89,10 @@ L’entreprise reçoit fréquemment des réclamations, des suggestions ou des de
 **Compétences:** Développer des codes avec python pour identifier les problèmes de qualité des données afin de les corriger avant une analyse et Traiter les problèmes de qualité de données, Réaliser des analyses univariées afin de valider la qualité globale des données et Synthétiser les incohérences résolues et restantes afin de créer un plan d'action.<br>
 
 ### Créez un tableau de bord dynamique avec Power BI pour visualiser l’avancement de projets 
-**Contexte:** En tant que consultant Business Analyst chez ESN Data, je suis affecté à la mission de visualisation de données chez Sanitoral, une entreprise internationale spécialisée dans la fabrication et la vente de produits de soins bucco-dentaires. Mon rôle consiste à collaborer avec le chef de projet du Project Management Office de Sanitoral pour élaborer un tableau de bord répondant à plusieurs objectifs essentiels :
--Surveiller l'avancement global des projets en cours.
--Identifier et analyser les éventuels retards dans le déroulement des projets.
--Contrôler les performances afin de permettre à l'équipe de prendre des mesures appropriées.
+**Contexte:** En tant que consultant Business Analyst chez ESN Data, je suis affecté à la mission de visualisation de données chez Sanitoral, une entreprise internationale spécialisée dans la fabrication et la vente de produits de soins bucco-dentaires. Mon rôle consiste à collaborer avec le chef de projet du Project Management Office de Sanitoral pour élaborer un tableau de bord répondant à plusieurs objectifs essentiels :<br>
+-Surveiller l'avancement global des projets en cours.<br>
+-Identifier et analyser les éventuels retards dans le déroulement des projets.<br>
+-Contrôler les performances afin de permettre à l'équipe de prendre des mesures appropriées.<br>
 L'objectif principal du tableau de bord est d'évaluer les performances des projets dans les domaines de l'informatique et du marketing. 
 Pour atteindre cet objectif, la mission est structurée en différentes étapes, détaillées dans les documents joints.<br>
 
