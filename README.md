@@ -108,7 +108,7 @@ Pour atteindre cet objectif, la mission est structurée en différentes étapes,
 **Compétences:** Identifier les besoins d’un projet pour réaliser un dashboard adapté, Configurer un tableau de bord en fonction des besoins utilisateurs, Présenter un tableau de bord aux utilisateurs permettant de visualiser les résultats.<br>
 
 ### Analysez l’évolution des prix de l’immobilier avec Python 
-**Contexte:**Au sein des plus beaux logis de Paris, une entreprise familiale de gestion immobilière en crise financière, je suis mandaté en tant que Business Analyst pour résoudre un conflit entre les directeurs généraux adjoints, Maxence et Louise, sur la vente d'actifs. 
+**Contexte:** Au sein des plus beaux logis de Paris, une entreprise familiale de gestion immobilière en crise financière, je suis mandaté en tant que Business Analyst pour résoudre un conflit entre les directeurs généraux adjoints, Maxence et Louise, sur la vente d'actifs. 
 À la demande de Maurice, le dirigeant, j'utilise les sciences des données pour prédire les valorisations d'actifs. La démarche comprend l'analyse des données du marché, l'entraînement d'un modèle de régression linéaire avec Python, et la prédiction des valorisations futures des portefeuilles particuliers et corporatifs. Les résultats aideront à recommander au client le segment le moins porteur pour vendre des actifs, générer de la trésorerie et se prémunir contre les risques du marché immobilier.<br>
 **Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_2_Visualiation_032023.pdf">
   <code>Présentation des analyses</code></a><br>
