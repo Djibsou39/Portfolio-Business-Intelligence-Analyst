@@ -113,5 +113,5 @@ Pour atteindre cet objectif, la mission est structurée en différentes étapes,
 **Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Analysez%20l%E2%80%99%C3%A9volution%20des%20prix%20de%20l%E2%80%99immobilier%20avec%20Python/Soumare_Djibril_2_Presentation_092023.pdf">
   <code>Présentation des analyses</code></a><br>
 **Traitement et Analyse avec python:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Analysez%20l%E2%80%99%C3%A9volution%20des%20prix%20de%20l%E2%80%99immobilier%20avec%20Python/Soumare_Djibril_1_%20iPython%20Notebook_092023-2.ipynb">
-  <code> Rapport d'analyse de données</code></a><br>
+  <code> Jupyter Notebook</code></a><br>
 **Compétences:** Nettoyage des données, Analyse exploratoire des données avec Excel, visualisation des données et Communication des résultats d'analyse avec PowerPoint<br>
