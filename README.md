@@ -110,8 +110,8 @@ Pour atteindre cet objectif, la mission est structurée en différentes étapes,
 ### Analysez l’évolution des prix de l’immobilier avec Python 
 **Contexte:** Au sein des plus beaux logis de Paris, une entreprise familiale de gestion immobilière en crise financière, je suis mandaté en tant que Business Analyst pour résoudre un conflit entre les directeurs généraux adjoints, Maxence et Louise, sur la vente d'actifs. 
 À la demande de Maurice, le dirigeant, j'utilise les sciences des données pour prédire les valorisations d'actifs. La démarche comprend l'analyse des données du marché, l'entraînement d'un modèle de régression linéaire avec Python, et la prédiction des valorisations futures des portefeuilles particuliers et corporatifs. Les résultats aideront à recommander au client le segment le moins porteur pour vendre des actifs, générer de la trésorerie et se prémunir contre les risques du marché immobilier.<br>
-**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_2_Visualiation_032023.pdf">
+**Presentation:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Analysez%20l%E2%80%99%C3%A9volution%20des%20prix%20de%20l%E2%80%99immobilier%20avec%20Python/Soumare_Djibril_2_Presentation_092023.pdf">
   <code>Présentation des analyses</code></a><br>
-**Traitement et Analyse avec python:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf">
+**Traitement et Analyse avec python:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Analysez%20l%E2%80%99%C3%A9volution%20des%20prix%20de%20l%E2%80%99immobilier%20avec%20Python/Soumare_Djibril_1_%20iPython%20Notebook_092023-2.ipynb">
   <code> Rapport d'analyse de données</code></a><br>
 **Compétences:** Nettoyage des données, Analyse exploratoire des données avec Excel, visualisation des données et Communication des résultats d'analyse avec PowerPoint<br>
