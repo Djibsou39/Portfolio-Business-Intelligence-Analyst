@@ -1,7 +1,7 @@
 # Mon Portfolio 
 <p align="center">
   
-<img src="images/Photo_profil.jpg" height=300></p>
+<img src="images/PHOTO_CV.jpg" height=300></p>
 
 ## Djibril Soumare
 Business Intelligence Analyst & Géomaticien
