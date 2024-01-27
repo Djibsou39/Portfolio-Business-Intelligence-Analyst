@@ -27,7 +27,7 @@ Pour me connaitre davantage, vous pouvez consulter mon [**CV**](https://public.t
   <code>Présentation des analyses</code></a><br>
 **Rapport:** <a href="https://github.com/Djibsou39/Portfolio-Business-Intelligence-Analyst/blob/main/Visualiser%20les%20donn%C3%A9es%20avec%20Excel/Soumare_Djibril_1_rapport_032023.pdf">
   <code> Rapport d'analyse de données</code></a><br>
-**Tableau de bord:** <a href="https://www.arcgis.com/apps/dashboards/936d195bba6c43518bdf9a47669ecfc7">Tableau de Bord ArcGIS Online</a><br>
+[**Tableau de bord**](https://www.arcgis.com/apps/dashboards/936d195bba6c43518bdf9a47669ecfc7)<br>
 **Compétences:** Nettoyage des données, Analyse exploratoire des données avec Excel, visualisation des données et Communication des résultats d'analyse avec PowerPoint<br>
 
 ### Requêtez une base de données avec SQL
